@@ -27,6 +27,7 @@
 <p align="center">
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"> Learning [65%]</code>
+  <code><img title="Lua" height="25" src="images/lua.png"></code>
   <br>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
@@ -36,6 +37,7 @@
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <br>
   <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
+  <code><img title="Roblox Studio" height="25" src="images/roblox_studio.png"></code>
   <br>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
