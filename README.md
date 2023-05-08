@@ -25,7 +25,7 @@
 <br>
 <p align="center">
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"> Learning [65%]</code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Lua" height="25" src="images/lua.png"></code>
   <br>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
